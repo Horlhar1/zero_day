@@ -1,0 +1,1 @@
+Using Vagrant becomes easy
